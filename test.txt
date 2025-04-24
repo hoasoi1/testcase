@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+Test new commit
+=======
+@@ -23,3 +23,8 @@ def enter_password(self, password):
+    # Hàm để nhấn nút login
+    def click_login(self):
+        self.driver.find_element(*self.login_button).click()
+
+
+def guess():
+    print("chi la them cho co")
+>>>>>>> 4171706 (Thay doi xpath login)
